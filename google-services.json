@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341980012720",
+    "firebase_url": "https://intelligent-ambulance-e6c18-default-rtdb.firebaseio.com",
+    "project_id": "intelligent-ambulance-e6c18",
+    "storage_bucket": "intelligent-ambulance-e6c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341980012720:android:3c50134fc07eaa6d15db75",
+        "android_client_info": {
+          "package_name": "com.example.intelligentambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341980012720-htnhglm4crh3t6ban8n2d5cbqrfjgfif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intelligentambulance",
+            "certificate_hash": "deb46e2a726bd24f5c6cb276ec6a7e8f9304493e"
+          }
+        },
+        {
+          "client_id": "341980012720-5lkb0oq9cep12ise5b80mtqcnvlj07j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZrlAYVL1X-bnMi1bQBfPG7R60nVT76c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341980012720-5lkb0oq9cep12ise5b80mtqcnvlj07j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
